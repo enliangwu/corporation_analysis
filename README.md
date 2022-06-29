@@ -3,6 +3,7 @@ This is a simple prject from CMPSC121: Intro to C++ programming
 
 The program will make simple analysis of inovice.txt
 
+```
 Sample output:
 invoice.txt
 Erie Industrial Supply Corporation
@@ -52,3 +53,4 @@ Invoice date: 2/26/2017
 876543      Ferrule     2  345.77   691.54
 877721      Uberfrock  14   88.93  1245.02
 Total ...................2838.44
+```
