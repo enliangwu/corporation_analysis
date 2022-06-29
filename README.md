@@ -1,5 +1,5 @@
 # Corporation Analysis
-This is a simple prject from CMPSC121: Intro to C++ programming
+This is a simple project from CMPSC121: Intro to C++ programming
 
 The program will make simple analysis of inovice.txt
 
